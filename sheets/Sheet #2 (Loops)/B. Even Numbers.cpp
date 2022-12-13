@@ -8,9 +8,9 @@ int main()
 		cout<<-1;
 		return 0;
 	}
-	for(int i=1;i<=counter;i++){
+	for(int i=;i=<counter;i++){
 		if(i % 2 == 0){
-			cout<<i<<endl;
+			cout<<i<<'\n';
 		}
 	}
 }
